@@ -30,3 +30,13 @@ Then, run `stat_model.py` followed by `csvPerpParseWB.py` and `csvPerpParseKN.py
 Finally, `perpSC.py` can be run independently once the data preparation is complete.
 
 Addendum: https://1drv.ms/f/s!AlS9diCw3ZVTqgmQ3kW78T_et2kp?e=0IRgqc
+
+## Results and Observations
+
+| ROC Curves                          | Confusion Matrix                    |
+| ----------------------------------- | ----------------------------------- |
+| ![KN_ROC](kn1.jpeg) | ![KN_CM](kn2.jpeg) |
+| ![WB_ROC](wb1.jpeg) | ![WB_CM](wb2.jpeg) |
+| ![LSTM_ROC](lstm2.jpeg) | ![LSTM_CM](lstm1.jpeg) |
+| ![Transformer_ROC](transformer1.jpeg) | ![Transformer_CM](transformer2.jpeg) |
+
