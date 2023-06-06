@@ -35,8 +35,8 @@ Addendum: https://1drv.ms/f/s!AlS9diCw3ZVTqgmQ3kW78T_et2kp?e=0IRgqc
 
 | ROC Curves                          | Confusion Matrix                    |
 | ----------------------------------- | ----------------------------------- |
-| ![KN_ROC](images/kn1.jpeg) | ![KN_CM](images/kn2.jpeg) |
-| ![WB_ROC](images/wb1.jpeg) | ![WB_CM](images/wb2.jpeg) |
-| ![LSTM_ROC](images/lstm2.jpeg) | ![LSTM_CM](images/lstm1.jpeg) |
-| ![Transformer_ROC](images/transformer1.jpeg) | ![Transformer_CM](images/transformer2.jpeg) |
+| ![KN_ROC](results/kn1.png) | ![KN_CM](results/kn2.png) |
+| ![WB_ROC](results/wb1.png) | ![WB_CM](results/wb2.png) |
+| ![LSTM_ROC](results/lstm2.png) | ![LSTM_CM](results/lstm1.png) |
+| ![Transformer_ROC](results/transformer1.png) | ![Transformer_CM](results/transformer2.png) |
 
