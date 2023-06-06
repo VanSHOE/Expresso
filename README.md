@@ -1,5 +1,3 @@
-# Project README
-
 ## Description
 
 This project contains code for a language classification task, where the goal is to classify text data as either fluent or non-fluent. The project uses various models and techniques such as linear classifiers, statistical models, LSTMs, and RoBERTa base models.
