@@ -29,7 +29,7 @@ Finally, `perpSC.py` can be run independently once the data preparation is compl
 
 Addendum: https://1drv.ms/f/s!AlS9diCw3ZVTqgmQ3kW78T_et2kp?e=0IRgqc
 
-## Results and Observations
+## Results
 
 | ROC Curves                          | Confusion Matrix                    |
 | ----------------------------------- | ----------------------------------- |
@@ -37,4 +37,6 @@ Addendum: https://1drv.ms/f/s!AlS9diCw3ZVTqgmQ3kW78T_et2kp?e=0IRgqc
 | ![WB_ROC](results/wb1.png) | ![WB_CM](results/wb2.png) |
 | ![LSTM_ROC](results/lstm2.png) | ![LSTM_CM](results/lstm1.png) |
 | ![Transformer_ROC](results/transformer1.png) | ![Transformer_CM](results/transformer2.png) |
+
+## Observations:
 
